@@ -1,7 +1,5 @@
 # Neuro-Fuzzy-Computing
 
-# Neuro-Fuzzy Computing
-
 Coursework for the **Neuro-Fuzzy Computing** course at the Department of Electrical and Computer Engineering, **University of Thessaly**, during the Fall semester of the academic year **2024–2025**.
 
 This repository contains three problem sets combining mathematical analysis, theoretical exercises, and Python implementations. The assignments cover neural network fundamentals, optimization algorithms, convolutional and recurrent networks, competitive learning, and fuzzy logic.
